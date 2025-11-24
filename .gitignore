@@ -1,0 +1,14 @@
+# Visual Studio 임시 파일 무시
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+*.db
+*.ipch
